@@ -27,13 +27,13 @@ Assist is a modular, voice-activated AI assistant that can perform various tasks
 <img src="Customization Panel.png" height=600 width =600>
 
 # Chat History Panel
-<img src="Chat History Panel.png" height=600 width =600>
+<img src="Chat History Panel.png" height=800 width =600>
 
 # Assist Opening Calculator
 <img src="Assist Opening Calculator.png" height=600 width =600>
 
 # Youtube using Assist
-<img src="Youtube using Assist.png" height=600 width =600>
+<img src="Youtube using Assist.png" height=600 width =900>
 
 
 
